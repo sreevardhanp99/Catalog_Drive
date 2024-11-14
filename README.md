@@ -4,7 +4,7 @@
 
 ### Overview
 
-This project uses Lagrange interpolation to show how to solve a secret sharing dilemma. The idea was influenced by polynomial interpolation, in which a predetermined number of shares are needed to rebuild the original secret after secret material is divided among several parties.
+This question uses Lagrange interpolation to show how to solve a secret sharing dilemma. The idea was influenced by polynomial interpolation, in which a predetermined number of shares are needed to rebuild the original secret after secret material is divided among several parties.
 
 #### Problem Statement
 
