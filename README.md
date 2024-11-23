@@ -6,7 +6,7 @@
 
 This question uses Lagrange interpolation to show how to solve a secret sharing dilemma. The idea was influenced by polynomial interpolation, in which a predetermined number of shares are needed to rebuild the original secret after secret material is divided among several parties.
 
-#### Problem Statement
+#### Problem Statement:
 
 The objective is to use Lagrange interpolation to calculate a polynomial's value at a certain point. To accomplish this, data points in the supplied JSON file must be processed. To be precise, the tasks are:
 
